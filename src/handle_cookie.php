@@ -3,9 +3,14 @@
 test account: test
 
 */ 
+
 ...
 
 
+  /**
+  
+  Verify administrator privileges via cookies
+  */
 $sign = array(
                     'id'=>$model->id,
                     'name'=>$model->username,
